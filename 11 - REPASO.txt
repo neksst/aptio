@@ -1,0 +1,204 @@
+Tecnologia: Conjunto de conocimientos y habilidades que tiene como objetivo resolver un problema determinado hasta lograr satisfacer una necesidad
+
+Informacion: Grupo de datos ordenados, supervisados y validados que sirven para tomar decisiones y resolver problemas  en un organizacion.
+
+Organizacion: Es un grupo social formado por personas que interactuan en el marco de una estructura sistematica para cumplir objetivos
+	     Elementos de las orgs:
+	      - Objetivos: son los fines hacia los cuales se encamina la actividad de la organizacion
+	      - Metas: Son fines especificos
+	      - RRHH: Son las personas o grupo de personas que trabajan en la organizacion
+	      - Recursos Materiales: Son los medios que utiliza la organizacion para alcanzar los fines productivos
+	      - Informacion: son los recursos que genera la mente humana, apoyados o no por el uso de la tecnologia
+	      Las metas son medibles y de corto plazo
+ 
+	-- La sumatoria de los individuos que la componen se llama SINERGIA.
+	
+	     Clasificaciones: 
+	     Finalidad:
+		        - Con fin de lucro -Empresas-
+			- Sin fines de lucro -ONGs-
+     	     Formalidad:
+			- Informal
+			- Formal
+	     Grado de centralizacion:
+			- Centralizadas
+			- Descentralizadas
+	     Localizacion:
+			- Locales
+			- Nacionales
+			- Internacionales
+	     Propiedad:
+			- Publicas
+			- Privadas
+	     Toma de decisiones:
+			- Horizontal
+			- Vertical
+			- Red
+
+Empresa: Es una organizacion con fines de lucro. Que se basa en la comercializacion de productos, inmbuebles y/o prestacion de servicios.
+
+Clasificacion de las empresas:
+
+Actividad: .Primaria : Materias primas
+	   .Secundaria: Procesamiento de materias primas
+	   .Terciaria : Comercializacion de servicios
+
+Tamaño: .Grandes:
+	.Medianas
+	.Pequeñas
+
+propiedad de capital:
+	.Publica
+	.Privada
+	.Mixta
+
+Forma juridica: 
+	.Personales
+	.Personas juridicas (coop, SA , SRL)
+
+Ambito de activad:
+	.Local
+	.Regional
+	.Nacional
+	.Transnacional
+
+Empresa vertical -> piramide -> division de tareas
+
+Nivel superior estrategico:
+Sus acciones afectan a toda la organizacion
+Proyecta politicas y estrategias
+Determina objetivos a lago plazo y el modo en que la organizacion ha de interactuar con otras entidades
+
+Nivel medio tactico:
+Coordina actvidades que se desarrollan en el nivel operativo, ademas de tomar las decisiones que afectan a un sector, area o depto
+
+Nivel inferior operativo
+Su funcion es realizar las tareas que se realizan en una organizacion dadas por el nivel medio
+La division es importante ya que aumenta la eficiencia y permite un mayor nivel de produccion
+
+
+Organigrama: Representacion grafica de la division de trabajo dentro de una organizacion. Permite a cada miembro conocer que rol cumple dentro de la organizacion
+En las empresas tecnologicas los organigramas son mas chatos y mas anchos con el fin de reducir la burocracia.
+
+Lo que se puede observar respecto a la división del trabajo:
+Jerarquía:
+Se identifican los niveles de autoridad y responsabilidad, desde la alta dirección hasta los niveles operativos.
+Muestra quién reporta a quién, ayudando a entender la cadena de mando.
+
+Especialización:
+Refleja cómo están organizadas las actividades según funciones específicas (por ejemplo, finanzas, recursos humanos, producción).
+Permite visualizar qué tareas son responsabilidad de cada área o departamento, evidenciando la especialización del trabajo.
+
+Departamentalización:
+Muestra cómo se agrupan las actividades en departamentos o unidades según criterios como función, producto, región geográfica o cliente.
+Esto facilita identificar qué parte de la organización se encarga de qué aspectos.
+
+Interrelaciones:
+Evidencia las conexiones entre diferentes áreas y cómo interactúan para lograr los objetivos organizacionales.
+Se puede analizar cómo fluye la comunicación y la coordinación entre los departamentos.
+
+La diferencia entre estas divisiones es que la division vertical posee una mayor variedad de niveles o rangos, teniendo una mayor burocracia. En cambio una division horizontal busca tener una mayor flexibiliad interna reduciendo su burocracia. En una division horizontal no hay mandos intermedios, sino que existe un contacto directo entre directivos y trabajadores.
+
+
+Empresas del conocimiento: 
+	Clasificacion:
+			-Cuentan con personal cientifio y/o tecnico cualificado
+			-Producen bienes y servicioa con alto valor agregado
+			-Gran capacidad de innovacion
+			-Capacidad de Aprendizaje
+			-Alta capacidad de adaptabilidad a los cambios tecnologicos
+
+
+
+Cultura Organizacional: Posee un conjunto de valor valores, creencias, normas, lenguajes, conocimientos, y formas de actuar que son conocidos y compartidos por sus miembros:
+	Sus elementos son:
+			
+			- Los valores: Creencias y/o convicciones de la organizacion
+			- Las visiones: Son las ideas que tienen sus lideres sobre el futuro
+			- Los impulsores: Son las frases que conceptuan las vision de los lidere y que los miembros de la organizacion adoptan.
+
+innovacion: Proceso de crear y desarrollar nuevas ideas, productos y servicios y/o mejorando las existentes. 
+
+-------
+Procesos de negocios: Conjunto de actividades relacionadas en forma logica, el cual define como se desempeñan las tareas especificas de negocios, y que representa la forma en que una organizacion coordina el trabajo, la informacion y el conocimiento.
+Como una empresa organiza su trabajo a acorde de sus reglas y su cultura de trabajo.
+	Enfoques: 
+		- funcional
+		- Orientado a procesos
+	Enfoque funcional: Los roles y las responsabilidades estan alineados por areas. no hay visibilidad clara del proceso. El control de costos se realiza por centros de costo, alineados a areas funcionales, se pierde el valor del proceso al dar mas peso a la busqueda 			   de eficiencia de las areas funcionales
+
+	Enfoque Orientado a proceso: Se tiene visibilidad del proceso de negocio desde el principio a fin, se centra en la eficiencia, facilitando la generacion de valor de quienes consumen los servicios.
+
+
+Arquitectura Empresarial: Busca optimizar en toda organizacion los procesos legados que usualmente estan fragmentados en un entorno integrado que sea sensible a cambios y apoye la estrategia del negocio.
+
+---------
+Cooperacion: Cada miembro trabaja individualmente dentro de un grupo, centrandose en el resultado obtenido
+Colaboracion: Todos los miembros se centran en el proceso y tabajo en equipo.
+
+Sincronica
+Asincronica
+
+Ojetivos:
+-Explicitos
+-Compartidos
+Equipo trabajo -> formal
+
+
+grupo de trabajo -> trabajo cooperativo -> responsabilidad individual -> hay un lider -> el trabajo se delega
+equipo de trabajo -> trabajo colaborativo -> responsabilidad compartidad -> liderazgo compartido -> se analiza se discute y se trabaja conjuntamente
+
+Informal 
+
+Liderazgo compartido
+
+----------------
+
+Formas de adquirir soft:
+
+Desarrollarlo
+Comprarlo
+Prototipo
+Desarrollo de usuarios finales
+
+
+----------
+
+Rol: Es la responsabilidad asignada a un individuo dentro de un equipo de trabajo. Depende de la metodologia de desarrollo la envergadura del proyecto, la madurez tecnologica y de sus procesos de negocios.
+
+Metodologia: Conjunto de metodos que se utilizan para cubrir las necesidades de un proceso determinado
+Met. Orientado a Obj
+Met. RUP
+Met. Agiles
+Met. Estructurada
+Met. Re ing de Soft
+
+-----
+Clasificacion del Software
+
+S.Sistemas
+S.Desarrollo
+S.Aplicacion
+
+Sistemas de informacion: Tienen como funcion recopilar, procesar, elaborar y distruibuir la informacion necesaria para la operacion de una empresa automatizando parte de los procesos de negocios y hacer mas eficientes estos procesos
+
+
+El valor de un SI depende de su eficacia, su costo, la caliadad de informacion que trata y su aceptacion por parte de quienes lo utilizan.
+
+
+------------
+
+CMMI - CM: Gestion de configuracion: Tiene como proposito establecer y mantener la integridad de los productos de trabajo, manteniendo un informe de los estados de configuracion
+
+Niveles de capacidad:
+0 incompleto
+1 realizado
+2 gestionado
+3 definido
+4 Administrado cuantitativamente
+5 optimizado
+
+CMMI - ISO :Son modelos que permiten mejorar la caliad de los procesos de desarrollo de una organizacion
+CMMI : Busca garantizar un conjunto de buenas practicas
+ISO 9001: Busca asegurar la calidad del producto y servicios, estandarizando los procesos de desarrollos
+COBIT: Conjunto de herramientas orientas a garantizar el control y seguimiento de los Sistemas de informacion.
